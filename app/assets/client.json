@@ -1,0 +1,45 @@
+{
+  "client": {
+    "id": "test-aeea81ac-8f1f-47d8-8799-b5c054b5a59c",
+    "name": "PayMart Test",
+    "environment": "test",
+    "url": "https://localhost:8080/",
+    "allowedScopes": [
+      "openid",
+      "accounts",
+      "balances",
+      "transactions",
+      "accountholders",
+      "client_imageupload",
+      "client_paymentrequest",
+      "paymentinitiationrequest",
+      "client_paymentauthorizationrequest",
+      "client_refund",
+      "client_disbursement"
+    ],
+    "redirectUrls": [
+      "https://localhost:8000/return",
+      "http://localhost:3000/return",
+      "https://localhost:8080/return",
+      "http://localhost:8080/return"
+    ],
+    "countryCodes": [
+      "ZA"
+    ],
+    "absoluteRefreshTokenLifetime": 0,
+    "accessTokenLifetime": 3600,
+    "allowedGrantTypes": [
+      "authorization_code",
+      "client_credentials"
+    ],
+    "authorizationCodeLifetime": 300,
+    "identityTokenLifetime": 300,
+    "refreshTokenUsage": 1,
+    "slidingRefreshTokenLifetime": 1296000
+  },
+  "secret": {
+    "id": "6e620bdc-ead9-43f6-944e-44284c220f28",
+    "value": "jk48NeuL8Ckw+yjQlT0zWVVJ7P/CN1IIfi7KI79KKMLbGBE8KcH3ekAc3fF6NkBESIgKUdpJTjo8DRIF8EqYkA==",
+    "expiration": "2024-09-04T17:02:45.747+00:00"
+  }
+}

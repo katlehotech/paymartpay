@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>129947424619-istelkgaajphjn8kbeid3gujrs9aorrm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.129947424619-istelkgaajphjn8kbeid3gujrs9aorrm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBeR4RjhZXqFqBYgK3FH3W0Rjf2ZhyrGFk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>129947424619</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.paymart.app</string>
+	<key>PROJECT_ID</key>
+	<string>paymartpay</string>
+	<key>STORAGE_BUCKET</key>
+	<string>paymartpay.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:129947424619:ios:4d60275f4f756fdecf5e2e</string>
+	<key>DATABASE_URL</key>
+	<string>https://paymartpay-default-rtdb.europe-west1.firebasedatabase.app</string>
+</dict>
+</plist>

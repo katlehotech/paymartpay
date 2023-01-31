@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "129947424619",
+    "firebase_url": "https://paymartpay-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "paymartpay",
+    "storage_bucket": "paymartpay.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129947424619:android:4cb3a540204f3974cf5e2e",
+        "android_client_info": {
+          "package_name": "com.paymart.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129947424619-9os93qpo2n9tln11ack9u6ped55nln11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAam_n9-8I5sNL5-cHxKVM6X94QuBVvwRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129947424619-9os93qpo2n9tln11ack9u6ped55nln11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129947424619-60dlgfmdql7j5du77ms8reqruc94taja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thapelo.paymart"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:129947424619:android:0b0967227c361378cf5e2e",
+        "android_client_info": {
+          "package_name": "com.paymart.pay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "129947424619-9os93qpo2n9tln11ack9u6ped55nln11.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAam_n9-8I5sNL5-cHxKVM6X94QuBVvwRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "129947424619-9os93qpo2n9tln11ack9u6ped55nln11.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "129947424619-60dlgfmdql7j5du77ms8reqruc94taja.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.thapelo.paymart"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
